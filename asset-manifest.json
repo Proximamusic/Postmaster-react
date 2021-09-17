@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Postmaster-react/static/css/main.167890ee.chunk.css",
+    "main.js": "/Postmaster-react/static/js/main.f65bd7d2.chunk.js",
+    "main.js.map": "/Postmaster-react/static/js/main.f65bd7d2.chunk.js.map",
+    "runtime-main.js": "/Postmaster-react/static/js/runtime-main.4e562b1c.js",
+    "runtime-main.js.map": "/Postmaster-react/static/js/runtime-main.4e562b1c.js.map",
+    "static/js/2.2a6d96e0.chunk.js": "/Postmaster-react/static/js/2.2a6d96e0.chunk.js",
+    "static/js/2.2a6d96e0.chunk.js.map": "/Postmaster-react/static/js/2.2a6d96e0.chunk.js.map",
+    "index.html": "/Postmaster-react/index.html",
+    "static/css/main.167890ee.chunk.css.map": "/Postmaster-react/static/css/main.167890ee.chunk.css.map",
+    "static/js/2.2a6d96e0.chunk.js.LICENSE.txt": "/Postmaster-react/static/js/2.2a6d96e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e562b1c.js",
+    "static/js/2.2a6d96e0.chunk.js",
+    "static/css/main.167890ee.chunk.css",
+    "static/js/main.f65bd7d2.chunk.js"
+  ]
+}
