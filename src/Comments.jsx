@@ -3,7 +3,7 @@ import React from "react";
 function Comments({ name, body, email }) {
   return (
     <>
-      <div className="flex flex-col mt-9 text-xl bg-white font-mono px-10 py-7 shadow-2xl">
+      <div className="flex flex-col mt-9 text-xl bg-white font-mono px-10 py-7 shadow-2xl px-9">
         <span className=" mt-4 text-lg">
           {" "}
           <label htmlFor="" className="mr-2">
